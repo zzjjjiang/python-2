@@ -20,6 +20,12 @@ __pycache__/
 .idea/**/dbnavigator.xml
 .idea/**/gradle.xml
 .idea/**/libraries
+.idea/
+
+# VS Code
+.vscode/
+
+students/
 
 **/*.pyc
 students/stu*/__pycache__/
