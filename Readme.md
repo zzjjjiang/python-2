@@ -5,6 +5,7 @@ Assignments are located [here](Assignments.md).
 - Fork and clone this repository.
 - Work on the assignments with your Partner:
     - take turns driving and navigating (switch after each exercise)
+- Define and call your methods in the folder `src`.
 - Open repository in IDE/text editor of your choice. 
     - If using IntelliJ: Open the Python directory from IntelliJ
     - Create virtual environment: `python -m venv venv`
