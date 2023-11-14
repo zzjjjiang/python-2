@@ -7,17 +7,9 @@ Assignments are located [here](Assignments.md).
     - take turns driving and navigating (switch after each exercise)
 - Define and call your methods in the folder `src`.
 - Open repository in IDE/text editor of your choice. 
-    - If using IntelliJ: Open the Python directory from IntelliJ
-    - Create virtual environment: `python -m venv venv`
-    - Activate virtual environment: `venv\Scripts\activate.bat`
-    - Install dependencies: `pip install -r requirements.txt`
     - Check project settings for Python Interpreter settings:
         - File >> Project Structure >> Project
         - File >> Project Structure >> Modules
-    - Create configuration:
-        - Edit Configurations...
-        - Click plus, create name, select `main.py` file
-        - Use SDK Module
 - Push up your work at the end of the day
 
 # Notes
