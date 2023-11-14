@@ -1,2 +1,2 @@
-# define and/or call your methods here:
+# define your methods here.
 # ex1() - ex10()

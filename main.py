@@ -1,6 +1,5 @@
-
-# Update with your student id.
-from students.stu0.assignments import *
+# Execute your methods here.
+from src import *
 
 
 def main():
